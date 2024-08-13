@@ -1,0 +1,60 @@
+body {
+    background-image: linear-gradient(to right top, #212f45, #1b3a50, #104458, #054f5e, #065a60);
+    min-height: 100vh;
+}
+
+nav {
+    color: white;
+    background-color: #182c34;
+}
+/* General Body Styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1a202c; /* Dark background for the app */
+}
+
+/* Header and Footer Styles */
+footer {
+    background-color: #2d3748; /* Slightly darker footer background */
+    border-top: 1px solid #4a5568; /* Light border for separation */
+}
+
+/* Buttons and Links */
+a, .font-medium {
+    color: #63b3ed; /* Blue color for links and buttons */
+}
+
+a:hover, .hover\:underline:hover {
+    text-decoration: underline;
+    color: #3182ce; /* Darker blue on hover */
+}
+
+button {
+    background-color: #2b6cb0; /* Blue background for buttons */
+    border: none;
+    border-radius: 0.375rem;
+    color: white;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #2b6cb0; /* Slightly darker blue on hover */
+}
+
+/* Cards and Containers */
+.bg-gray-900 {
+    background-color: #2d3748; /* Darker background for card sections */
+}
+
+.bg-gray-800 {
+    background-color: #1a202c; /* Even darker background for footer */
+}
+
+.border {
+    border-color: #4a5568; /* Light border color */
+}
+
+.shadow-lg {
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}

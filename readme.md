@@ -51,10 +51,10 @@ CoinKeeper is a personal finance tracker designed to help you manage your financ
 
 ## Screenshots
 
-![Dashboard Screenshot](coinkeeper1)  
+![Dashboard Screenshot](coinkeeper1.png)  
 *Dashboard Overview*
 
-![Transactions Screenshot](coinkeeper2)  
+![Transactions Screenshot](coinkeeper2.png)  
 *View and manage your transactions easily.*
 
 ## Tech Stack

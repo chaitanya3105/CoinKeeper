@@ -1,4 +1,4 @@
-`1# CoinKeeper
+# CoinKeeper
 
 - Developed a full-stack  tracking web application using Spring Boot, React.js, and MySQL, facilitating seamless management of day-to-day finances.
 - Implemented multi-role functionality with user authentication, enabling secure access for both users and administrators, with features such as sign-in, sign-up, password reset, and email verification.

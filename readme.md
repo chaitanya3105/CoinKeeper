@@ -1,84 +1,27 @@
 # CoinKeeper
 
-**Brief Description:**  
-CoinKeeper is a personal finance tracker designed to help you manage your finances with ease. Whether you're tracking your daily expenses, setting budget goals, or planning for future savings, CoinKeeper provides the tools to monitor your financial health effectively.
+- Developed a full-stack  tracking web application using Spring Boot, React.js, and MySQL, facilitating seamless management of day-to-day finances.
+- Implemented multi-role functionality with user authentication, enabling secure access for both users and administrators, with features such as sign-in, sign-up, password reset, and email verification.
+- Developed intuitive user dashboards, transactioning/recurring transactions tracking, monthly summaries, and statistics, budget management.
+- Developed categories, users and transactions management for administrators.
+- Implemented management capabilities including search, filter and pagination
+  
 
-## Table of Contents
+![Screenshot 2024-04-18 091658](/assets/1.png)
+![Screenshot 2024-04-18 091720](/assets/2.png)
+![Screenshot 2024-04-18 091743](/assets/3.png)
+![Screenshot 2024-04-18 091803](/assets/4.png)
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Contributing](#contributing)
+Users's stuff
+
+![Screenshot 2024-04-22 153501](/assets/5.png)
+![Screenshot 2024-04-22 153536](/assets/6.png)
 
 
-## Features
 
-- **Real-Time Tracking**: Monitor your income and expenses in real-time.
-- **Budget Management**: Set, track, and adjust your budget goals.
-- **Financial Insights**: Receive personalized tips and insights based on your financial data.
-- **Interactive Visualizations**: Visualize your financial trends with dynamic charts.
-- **User-Friendly Interface**: Simple and intuitive design for ease of use.
 
-## Installation
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/CoinKeeper.git
-    ```
-2. **Navigate to the project directory**:
-    ```bash
-    cd CoinKeeper
-    ```
-3. **Install dependencies**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. **Run migrations**:
-    ```bash
-    python manage.py migrate
-    ```
 
-## Usage
 
-- **Run the development server**:
-    ```bash
-    python manage.py runserver
-    ```
-- **Access the application**: Open your web browser and navigate to `http://localhost:8000`.
-- **Sign Up / Log In**: Create an account or log in to start managing your finances.
-
-## Screenshots
-
-![Dashboard Screenshot](coinkeeper1.png)  
-*Dashboard Overview*
-
-![Transactions Screenshot](coinkeeper2.png)  
-*View and manage your transactions easily.*
-
-## Tech Stack
-
-- **Backend**: Django
-- **Frontend**: HTML, CSS (TailwindCSS)
-- **Database**: SQLite (default), PostgreSQL (optional)
-- **Other**: HTMX for dynamic interactions
-
-## Contributing
-
-1. **Fork the repository**.
-2. **Create a new branch**:
-    ```bash
-    git checkout -b feature-branch
-    ```
-3. **Commit your changes**:
-    ```bash
-    git commit -m "Add new feature"
-    ```
-4. **Push to the branch**:
-    ```bash
-    git push origin feature-branch
-    ```
-5. **Open a Pull Request**.
 
 

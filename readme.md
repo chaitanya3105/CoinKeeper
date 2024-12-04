@@ -7,7 +7,7 @@
 - Implemented management capabilities including search, filter and pagination
   
 
-![Screenshot 2024-04-18 091658](/assets/1.png)
+![Screenshot 2024-04-18 091658](../assets/1.png)
 ![Screenshot 2024-04-18 091720](/assets/2.png)
 ![Screenshot 2024-04-18 091743](/assets/3.png)
 ![Screenshot 2024-04-18 091803](/assets/4.png)
